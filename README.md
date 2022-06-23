@@ -1,3 +1,8 @@
+# 0960345
+# Joeri Huigsloot
+# http://cnsd-react-app-485757175184.s3-website-us-east-1.amazonaws.com 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
